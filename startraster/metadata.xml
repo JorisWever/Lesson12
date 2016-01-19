@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="nl"><Esri><CreaDate>20160119</CreaDate><CreaTime>15285000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="ASCII to Raster" ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\ASCIIToRaster" Date="20160119" Time="152850">ASCIIToRaster E:\P3\GeoScripting\Lessons\Lesson12\Part4\startgrid.asc E:\P3\GeoScripting\Lessons\Lesson12\Part4\startRaster INTEGER</Process></lineage></DataProperties></Esri></metadata>
